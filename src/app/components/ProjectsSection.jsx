@@ -31,8 +31,8 @@ const projectsData = [
     description: "This project was made while i was learning ReactJS hooks.",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/AhmadAlhazmi75/usePopcorn",
+    previewUrl: "use-popcorn-zeta.vercel.app",
   },
   {
     id: 4,
