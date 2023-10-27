@@ -23,7 +23,7 @@ const projectsData = [
     image: "/images/projects/4.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/AhmadAlhazmi75/WeatherApp",
-    previewUrl: "peaceful-scone-7ce9c2.netlify.app",
+    previewUrl: "https://peaceful-scone-7ce9c2.netlify.app",
   },
   {
     id: 3,
@@ -32,7 +32,7 @@ const projectsData = [
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/AhmadAlhazmi75/usePopcorn",
-    previewUrl: "use-popcorn-zeta.vercel.app",
+    previewUrl: "https://use-popcorn-zeta.vercel.app",
   },
   {
     id: 4,
