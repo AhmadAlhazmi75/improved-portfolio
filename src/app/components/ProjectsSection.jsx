@@ -43,6 +43,15 @@ const projectsData = [
     gitUrl: "https://github.com/AhmadAlhazmi75/fast-react-pizza",
     previewUrl: "https://fast-react-pizza-sandy.vercel.app/",
   },
+  {
+    id: 5,
+    title: "Todo List",
+    description: "My first prject in Angular.",
+    image: "/images/projects/todo.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/AhmadAlhazmi75/todo-angular",
+    previewUrl: "https://ahmadhaz-angulartodo.netlify.app/",
+  },
 ];
 
 const ProjectsSection = () => {
