@@ -52,6 +52,15 @@ const projectsData = [
     gitUrl: "https://github.com/AhmadAlhazmi75/todo-angular",
     previewUrl: "https://ahmadhaz-angulartodo.netlify.app/",
   },
+  {
+    id: 6,
+    title: "Show Time Using Angular",
+    description: "Having fun with Angular.",
+    image: "/images/projects/showtime.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/AhmadAlhazmi75/movie-angular",
+    previewUrl: "https://showtime-angular.netlify.app/",
+  },
 ];
 
 const ProjectsSection = () => {
