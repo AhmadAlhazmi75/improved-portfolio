@@ -29,12 +29,13 @@ const TAB_DATA = [
     ),
   },
   {
-    title: "Certifications",
+    title: "Certifications & Volunteers",
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
         <li>10+ Course Certificate at Udemy (Web Development) </li>
         <li>6+ Course Certificate at Udemy (Programming) </li>
+        <li>Volunteer at Keptar (Content Creator)</li>
       </ul>
     ),
   },
